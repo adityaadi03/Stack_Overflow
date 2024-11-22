@@ -1,5 +1,5 @@
 import React from "react";
-//import "./QuestionCard.css";
+import "./QuestionCard.css";
 
 const QuestionCard = ({ question }) => {
   return (

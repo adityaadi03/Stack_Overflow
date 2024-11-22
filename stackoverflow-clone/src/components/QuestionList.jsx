@@ -1,6 +1,6 @@
 import React from "react";
 import QuestionCard from "./QuestionCard";
-//import "./QuestionList.css";
+import "./QuestionList.css";
 
 const questions = [
   {
